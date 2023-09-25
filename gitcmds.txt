@@ -10,3 +10,4 @@ git rm --cached <filename>
 git commit -m "initial commit" (where -m dontes message for the commit)
 git restore <filename> will undo the modified changes to the modified file  
 git log (has all the details of the commited files)
+if any changes made to the file it becomes M (M - Modified file)
