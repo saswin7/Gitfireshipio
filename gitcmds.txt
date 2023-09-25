@@ -1,0 +1,9 @@
+git --version
+git config --list
+git config --global user.name "saswin-7117"
+git config --global user.email"saswinvijay7117@gmail.com"
+git init
+git status - untracked files - U
+git add. - staging process - A
+git reset - back to untracked Files  - U
+git rm --cached <filename>
