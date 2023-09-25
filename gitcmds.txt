@@ -16,6 +16,13 @@ git --dry-run (To preview or try a commit before making it official)
 git icon - to easily identify stages changes and modified unstaged changes
 
 
+git remote - shows the detail of connection between remote repository to a local repository
+git remote add origin <Repo-link> will connect the local repo to remote repo
+git remote -v (provides link of the linked repo)
+git remote show origin(provides additional information of the repo)
+
+
+
 
 
 :q to quit
