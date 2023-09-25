@@ -13,7 +13,7 @@ git log (has all the details of the commited files)
 if any changes made to the file it becomes M (M - Modified file)
 To skip git add(staging procees) and to directly run the commit process -  git commit -a -m "Skipping git add"
 git --dry-run (To preview or try a commit before making it official)
-
+git icon - to easily identify stages changes and modified unstaged changes
 
 
 
