@@ -24,7 +24,7 @@ git remote show origin(provides additional information of the repo)
 
 git push origin master - pushes the files in local repo to global repo
 git fetch - fetches the commited changes on the global repo to the local machine
-
+git pull origin master - pulls the changes from the global repo(fetch + merge)
 
 
 :q to quit
