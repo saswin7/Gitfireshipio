@@ -1,1 +1,1 @@
-Git and GitHub Full course
+Git and GitHub Full course By fireship.io
