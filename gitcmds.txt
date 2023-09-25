@@ -22,6 +22,8 @@ git remote -v (provides link of the linked repo)
 git remote show origin(provides additional information of the repo)
 
 
+git push origin master - pushes the files in local repo to global repo
+
 
 
 
