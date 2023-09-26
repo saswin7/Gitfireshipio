@@ -28,12 +28,14 @@ git pull origin master - pulls the changes from the global repo(fetch + merge)
 Press (.) operator to open a web editor of the repo
 
 
+git checkout <branchname> ( changes the branch )
+git checkout -b <branchname> ( creates a new branch and moves into it )
+git checkout - ( moves into the last used branch ) 
+
 git branch - shows all the branches on the current working repo
 git branch -M main ( renames master to main)
 git branch awesome ( creates a new branch awesome sont he current working project )
 git branch -d main ( deletes the main branch from the project)
-
-
 
 
 
