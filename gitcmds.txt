@@ -26,5 +26,6 @@ git push origin master - pushes the files in local repo to global repo
 git fetch - fetches the commited changes on the global repo to the local machine
 git pull origin master - pulls the changes from the global repo(fetch + merge)
 Press (.) operator to open a web editor of the repo
+git checkout <branchname> ( changes the branch )
 
 :q to quit
