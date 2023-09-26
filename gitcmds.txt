@@ -27,4 +27,15 @@ git fetch - fetches the commited changes on the global repo to the local machine
 git pull origin master - pulls the changes from the global repo(fetch + merge)
 Press (.) operator to open a web editor of the repo
 
+
+git branch - shows all the branches on the current working repo
+git branch -M main ( renames master to main)
+git branch awesome ( creates a new branch awesome sont he current working project )
+git branch -d main ( deletes the main branch from the project)
+
+
+
+
+
+
 :q to quit
