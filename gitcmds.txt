@@ -28,4 +28,5 @@ git pull origin master - pulls the changes from the global repo(fetch + merge)
 Press (.) operator to open a web editor of the repo
 git checkout <branchname> ( changes the branch )
 
+
 :q to quit
